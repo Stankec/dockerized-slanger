@@ -1,4 +1,4 @@
-# Slanger-docker
+# Dockerized Slanger
 
 Docker image for
 [Steve Graham's Slanger](https://github.com/stevegraham/slanger).
