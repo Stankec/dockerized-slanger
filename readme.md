@@ -1,5 +1,8 @@
 # Dockerized Slanger
 
+[![](https://images.microbadger.com/badges/image/stankec/slanger.svg)](https://microbadger.com/images/stankec/slanger
+"Get your own image badge on microbadger.com")
+
 Docker image for
 [Steve Graham's Slanger](https://github.com/stevegraham/slanger).
 
